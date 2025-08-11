@@ -1,0 +1,1 @@
+Currently, the Rem Station home page is the same as the [official Space Station 14](spacestation14.com) website. Anyone can create a pull request to this repository if they want to help make the home page different.
